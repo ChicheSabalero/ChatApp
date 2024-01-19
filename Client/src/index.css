@@ -1,0 +1,23 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+ul {
+  max-width: 800px;
+  margin: 10px auto;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+li {
+  background-color: lightblue;
+  border: 2px solid dodgerblue;
+  padding: 10px 20px;
+}
+
+form {
+  align-content: center;
+}
